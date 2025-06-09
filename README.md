@@ -1,3 +1,22 @@
+<div align="center">
+
+# Bitcoin
+
+[![GitHub stars](https://img.shields.io/github/stars/asklokesh/bitcoin?style=social)](https://github.com/asklokesh/bitcoin/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/asklokesh/bitcoin?style=social)](https://github.com/asklokesh/bitcoin/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/asklokesh/bitcoin?style=social)](https://github.com/asklokesh/bitcoin/watchers)
+
+[![License](https://img.shields.io/github/license/asklokesh/bitcoin?style=for-the-badge)](https://github.com/asklokesh/bitcoin/blob/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/asklokesh/bitcoin?style=for-the-badge)](https://github.com/asklokesh/bitcoin/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/asklokesh/bitcoin?style=for-the-badge)](https://github.com/asklokesh/bitcoin/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/asklokesh/bitcoin?style=for-the-badge)](https://github.com/asklokesh/bitcoin/commits)
+
+[![Commit Activity](https://img.shields.io/github/commit-activity/m/asklokesh/bitcoin?style=flat-square)](https://github.com/asklokesh/bitcoin/pulse)
+[![Code Size](https://img.shields.io/github/languages/code-size/asklokesh/bitcoin?style=flat-square)](https://github.com/asklokesh/bitcoin)
+[![Contributors](https://img.shields.io/github/contributors/asklokesh/bitcoin?style=flat-square)](https://github.com/asklokesh/bitcoin/graphs/contributors)
+
+</div>
+
 Bitcoin Core integration/staging tree
 =====================================
 
